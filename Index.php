@@ -11,7 +11,7 @@
 <body>
     <h1>PRODUCTOS MAKILGAR</h1>
     <p>JOSE HAROLDO DONIS ALONSO</p>
-    <p>Estudiante Ingenieria Ciencias y Sistemas</p>
+    <p>Estudiante Ingenieria Ciencias y Sistemas USAC 2020</p>
     <?php
         require_once("Controlador/ProductosControlador.php");
     ?>
